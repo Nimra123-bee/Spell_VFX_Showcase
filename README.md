@@ -8,7 +8,7 @@ The effects are built to simulate area-based magical attacks with strong visual 
 
 ## 🎥 Demo
 
-https://drive.google.com/file/d/1C3vzJqjH8tLvNOsQkVImXo9DJJtgmns9/view?usp=drive_link
+https://drive.google.com/file/d/1C3vzJqjH8tLvNOsQkVImXo9DJJtgmns9/view?usp=sharing
 
 ---
 
